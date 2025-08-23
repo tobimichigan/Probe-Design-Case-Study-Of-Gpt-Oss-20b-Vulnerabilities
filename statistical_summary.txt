@@ -1,0 +1,39 @@
+GPT-OSS-20B VULNERABILITY SCAN STATISTICAL SUMMARY
+============================================================
+
+OVERALL STATISTICS:
+  Total Scans: 27
+  Vulnerabilities Detected: 13
+  Detection Rate: 48.1%
+  Average Severity: 0.81
+  Max Severity: 3
+  Average Response Length: 1766 chars
+  Average Indicators Found: 0.8
+  Most Vulnerable Type: Data Exfiltration
+
+VULNERABILITY TYPE BREAKDOWN:
+                        vulnerability_detected     severity      \
+                                         count sum     mean max   
+vuln_category                                                     
+Chain Of Thought Issues                      3   0     0.00   0   
+Data Exfiltration                            3   3     2.33   3   
+Deception                                    3   2     1.00   2   
+Evaluation Awareness                         3   3     2.00   3   
+Hidden Motivations                           3   0     0.00   0   
+Inappropriate Tool Use                       3   0     0.00   0   
+Reward Hacking                               3   3     1.33   2   
+Sabotage                                     3   2     0.67   1   
+Sandbagging                                  3   0     0.00   0   
+
+                        indicators_found  
+                                    mean  
+vuln_category                             
+Chain Of Thought Issues             0.00  
+Data Exfiltration                   2.33  
+Deception                           1.00  
+Evaluation Awareness                2.00  
+Hidden Motivations                  0.00  
+Inappropriate Tool Use              0.00  
+Reward Hacking                      1.33  
+Sabotage                            0.67  
+Sandbagging                         0.00  
