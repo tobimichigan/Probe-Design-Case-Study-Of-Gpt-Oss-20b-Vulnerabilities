@@ -10,3 +10,37 @@ Finally, we discuss operational mitigations (prompt sanitization, runtime anomal
 Keywords: 	LLM red-teaming; reproducible pipeline; GPT-OSS-20B; vulnerability discovery; data exfiltration; indicator lexicon; findings.json; interpretability; word clouds; severity heatmap; probe design; statistical quality control
 
 Full Paper Article : https://handsonlabs.org/automated-reproducible-pipeline-for-llm-vulnerability-discovery-probe-design-json-findings-and-statistical-quality-controls-case-study-of-gpt-oss-20b-vulnerabilities/?v=c6a82504ceeb
+
+<h2 align="left"> 
+Showing Fig. 1.Response Pattern Analysis	
+  <br>
+ <a href="https://handsonlabs.org/automated-reproducible-pipeline-for-llm-vulnerability-discovery-probe-design-json-findings-and-statistical-quality-controls-case-study-of-gpt-oss-20b-vulnerabilities/?v=c6a82504ceeb"><img src="https://github.com/tobimichigan/Probe-Design-Case-Study-Of-Gpt-Oss-20b-Vulnerabilities/blob/main/Fig.%201.ResponsePatternAnalysis.png" alt="Fig. 1.Response Pattern Analysis" width="1020"></a> 
+  <br> 
+   <br>
+</h2>
+
+<h2 align="left"> 
+Showing Fig.2. Vulneralbility Pattern Analysis
+  <br>
+ <a href="https://handsonlabs.org/automated-reproducible-pipeline-for-llm-vulnerability-discovery-probe-design-json-findings-and-statistical-quality-controls-case-study-of-gpt-oss-20b-vulnerabilities/?v=c6a82504ceeb"><img src="https://github.com/tobimichigan/Probe-Design-Case-Study-Of-Gpt-Oss-20b-Vulnerabilities/blob/main/Fig.2.VulnerabilityResponseWordCloud.png" alt="Fig. 2.Vulneralbility Pattern Analysis" width="1020"></a> 
+  <br> 
+   <br>
+</h2>
+
+
+<h2 align="left"> 
+	Showing Fig.3. Vulnerability Severity Interactive Heatmap
+  <br>
+ <a href="https://handsonlabs.org/automated-reproducible-pipeline-for-llm-vulnerability-discovery-probe-design-json-findings-and-statistical-quality-controls-case-study-of-gpt-oss-20b-vulnerabilities/?v=c6a82504ceeb"><img src="https://github.com/tobimichigan/Probe-Design-Case-Study-Of-Gpt-Oss-20b-Vulnerabilities/blob/main/Fig.3.VulnerabilitySeverityInteractiveHeatmap.png" alt="Fig.3.Vulnerability Severity Interactive Heatmap" width="1020"></a> 
+  <br> 
+   <br>
+</h2>
+
+
+<h2 align="left"> 
+ Showing Fig.4.Vulnerability Dashboard
+  <br>
+ <a href="https://handsonlabs.org/automated-reproducible-pipeline-for-llm-vulnerability-discovery-probe-design-json-findings-and-statistical-quality-controls-case-study-of-gpt-oss-20b-vulnerabilities/?v=c6a82504ceeb"><img src="https://github.com/tobimichigan/Probe-Design-Case-Study-Of-Gpt-Oss-20b-Vulnerabilities/blob/main/Fig.4.VulnerabilityDashboard.png" alt="Fig.4.Vulnerability Dashboard" width="1020"></a> 
+  <br> 
+   <br>
+</h2>
