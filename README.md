@@ -19,6 +19,8 @@ Showing Fig. 1.Response Pattern Analysis
    <br>
 </h2>
 
+<p>Fig.1 Response Pattern Analysis: multi-panel plot showing distribution of response lengths by severity bucket, scatter of readability vs severity with local regression (LOESS) fit, and indicator count histograms. </p>
+
 <h2 align="left"> 
 Showing Fig.2. Vulneralbility Pattern Analysis
   <br>
@@ -27,6 +29,7 @@ Showing Fig.2. Vulneralbility Pattern Analysis
    <br>
 </h2>
 
+<p>- Fig.2 Vulnerability Response Word Cloud: per-category wordclouds emphasizing lexical footprints for different vulnerability classes. </p>
 
 <h2 align="left"> 
 	Showing Fig.3. Vulnerability Severity Interactive Heatmap
@@ -36,7 +39,7 @@ Showing Fig.2. Vulneralbility Pattern Analysis
    <br>
 </h2>
 
-
+<p>- Fig.3 Vulnerability Severity Interactive Heatmap: heatmap indexed by prompt_family (rows) and vulnerability_type (columns) with cell coloring representing mean severity. Produced as an interactive HTML widget (Plotly/Dash or Bokeh) for hover details. </p>
 <h2 align="left"> 
  Showing Fig.4.Vulnerability Dashboard
   <br>
@@ -44,3 +47,5 @@ Showing Fig.2. Vulneralbility Pattern Analysis
   <br> 
    <br>
 </h2>
+
+<p>- Fig.4 Vulnerability Dashboard: multi-tab dashboard containing: Vulnerability Detection by Type (bar plot), Severity Distribution (violin + histogram), Response Length vs Severity (scatter + regression), Indicators Found Distribution (bar), Vulnerability Timeline (time-series), Readability vs Severity (scatter). The dashboard includes filters (time range, severity threshold, category) and export-to-CSV.</p>
